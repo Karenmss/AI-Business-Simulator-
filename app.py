@@ -373,8 +373,6 @@ def breakpoint_price(settings: Settings) -> Decimal | None:
 
 # --- Streamlit user interface ---
 
-from __future__ import annotations
-
 import csv
 import io
 from datetime import date
